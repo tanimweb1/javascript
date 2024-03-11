@@ -198,4 +198,12 @@ console.log(new Polygon(100, 88, 2).area2);
 //     this.star()
 //   }
 // }
+// const tanim = [1, 4, 9, 16];
+// const tanim1 = tanim.map((x)=>x*4)
+// console.log(tanim1)
 
+const Array = ['0' , '1' , '2' , '3' , '4' , '5' , '6' , '7' , '8' , '9'];
+const Array1 = (Array.slice(2,8));
+console.log(Array1)
+console.log(Array.unshift(0, 2));
+console.log(Array);
