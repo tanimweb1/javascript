@@ -207,3 +207,4 @@ const Array1 = (Array.slice(2,8));
 console.log(Array1)
 console.log(Array.unshift(0, 2));
 console.log(Array);
+// p.style.fontSize = "50px";
