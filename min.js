@@ -30,7 +30,7 @@
 // if(typeof a=='string'){
 //     console.log(typeof a);
 // }
-// if (a < 16) {
+ // if (a < 16) {
 //   console.log('a is les than 16');
 // } else if (a > 16) {
 //   console.log('a is greater than 16');
